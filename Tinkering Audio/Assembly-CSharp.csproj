@@ -64,6 +64,8 @@
     <Compile Include="Assets\Scripts\DurationInputScript.cs" />
     <Compile Include="Assets\Scripts\ExitProgram.cs" />
     <Compile Include="Assets\Scripts\FrequencyInputScript.cs" />
+    <Compile Include="Assets\Scripts\SaveTone.cs" />
+    <Compile Include="Assets\Scripts\SavWav.cs" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc" />
